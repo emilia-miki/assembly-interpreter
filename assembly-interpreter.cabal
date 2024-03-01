@@ -70,7 +70,8 @@ executable assembly-interpreter
     -- Other library packages from which modules are imported.
     build-depends:    base ^>=4.17.2.1,
                       split ^>=0.1.2.3,
-                      containers ^>=0.7
+                      containers ^>=0.7,
+                      text ^>=2.1.1
 
     -- Directories containing source files.
     hs-source-dirs:   app

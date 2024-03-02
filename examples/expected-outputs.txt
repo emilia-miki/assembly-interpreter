@@ -1,0 +1,7 @@
+1: "(5+1)/2 = 3"
+2: "5! = 120"
+3: "Term 8 of Fibonacci series is: 21"
+4: "mod(11, 3) = 2"
+5: "gcd(81, 153) = 9"
+6: "This program should return null"
+7: "2^10 = 1024"
